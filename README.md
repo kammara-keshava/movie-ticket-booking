@@ -1,2 +1,2 @@
 # movie-ticket-booking
-This project facilitates booking movie tickets for the next 30 days with three daily slots. Users can also purchase snacks. After booking, they proceed to payment, and a detailed bill is generated.
+This project allows users to book movie tickets for upcoming screenings within the next 30 days, offering a variety of time slots throughout the day to accommodate different schedules. Each day presents three available slots for booking. Additionally, users have the option to purchase snacks alongside their ticket reservations. Upon completion of the booking process, users are directed to the payment gateway, where they can settle the bill. Finally, a detailed invoice is generated summarizing the transaction.
