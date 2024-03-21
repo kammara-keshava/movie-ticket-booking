@@ -1,0 +1,6 @@
+Top rows
+0 1 2--seats
+3 4 5---space
+6 to 19 ---seats
+20 21 22----space
+23 24 25 ----seats
